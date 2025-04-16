@@ -3,6 +3,9 @@ import Link from "next/link"
 import { ArrowRight, Building2, Cpu, LineChart, Lock, Settings, Zap } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
+{/* Added a visible change to trigger Vercel build */}
+// Trying to retrigger Vercel 
+
 export default function Home() {
   return (
     <div className="flex flex-col">
