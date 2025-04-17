@@ -81,10 +81,10 @@ export default function Footer() {
               <p>
                 123 Tech Park Drive, Suite 400
                 <br />
-                San Francisco, CA 94105
+                St John's, NL A1N 4V7, Canada
               </p>
               <p>
-                <span className="block">Phone: (123) 456-7890</span>
+                <span className="block">Phone: (709) 425-4203</span>
                 <span className="block">Email: info@arcned.com</span>
               </p>
               <p>
@@ -100,10 +100,10 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} ArcNED Smart Building Solutions Inc. All rights reserved.
           </p>
           <div className="flex gap-6">
-            <Link href="/privacy-policy" className="text-slate-400 text-sm hover:text-emerald-500 transition-colors">
+            <Link href="#" className="text-slate-400 text-sm hover:text-emerald-500 transition-colors">
               Privacy Policy
             </Link>
-            <Link href="/terms-of-service" className="text-slate-400 text-sm hover:text-emerald-500 transition-colors">
+            <Link href="#" className="text-slate-400 text-sm hover:text-emerald-500 transition-colors">
               Terms of Service
             </Link>
           </div>

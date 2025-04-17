@@ -3,8 +3,6 @@ import Link from "next/link"
 import { ArrowRight, Building2, Cpu, LineChart, Lock, Settings, Zap } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-{/* Added a visible change to trigger Vercel build */}
-// Trying to retrigger Vercel 
 
 export default function Home() {
   return (
@@ -168,7 +166,7 @@ export default function Home() {
             Get a customized quote for your smart building project and take the first step toward a more efficient,
             secure, and sustainable space.
           </p>
-          <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-emerald-600">
+          <Button size="lg" variant="outline" className="border-white text-black hover:bg-white hover:text-emerald-600">
             Request a Quote Today
           </Button>
         </div>
