@@ -25,7 +25,7 @@ export default function Home() {
                 <Button size="lg" className="bg-emerald-600 hover:bg-emerald-700">
                   Request a Quote
                 </Button>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+                <Button size="lg" variant="outline" className="border-white text-black hover:bg-white/10">
                   Explore Services
                 </Button>
               </div>

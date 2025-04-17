@@ -28,7 +28,7 @@ export default function ContactPage() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Call Us</h3>
               <p className="text-slate-600 mb-2">Mon-Fri from 8am to 5pm</p>
-              <p className="text-emerald-600 font-medium">(123) 456-7890</p>
+              <p className="text-emerald-600 font-medium">(709) 425-4203</p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-lg text-center">
